@@ -2,7 +2,7 @@
 
 🔭 I’m currently studying Information Systems at UFMG
 
-🌱 I’m currently learning C/C++
+🌱 I’m currently learning Python
 
 👯 I’m looking to become a great developer
 
