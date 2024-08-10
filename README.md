@@ -1,9 +1,7 @@
 # Hi there 👋
 
-🔭 I’m currently studying Information Systems at UFMG
+🔭 I’m currently studying Information Systems at UFMG and working as Software Engineer Trainee at Levty
 
-🌱 I’m currently learning Python
-
-👯 I’m looking to become a great developer
+🌱 JavaScript, C, C++, Python
 
 📫 How to reach me: arthurrabelo2015@hotmail.com
