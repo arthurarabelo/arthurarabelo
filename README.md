@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🔭 I’m currently studying Information Systems at UFMG and working as Software Engineer Trainee at Levty
+🔭 I’m currently studying Information Systems at UFMG and working as Software Engineer at Levty
 
 ### Connect with me:
 
